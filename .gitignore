@@ -1,0 +1,10 @@
+*.txt
+*.ipynb_checkpoints
+*.env
+lm-evaluation-harness
+lightning_logs
+mlp_model_dir
+MNIST
+wandb
+Malecc
+#*-metadata.json
