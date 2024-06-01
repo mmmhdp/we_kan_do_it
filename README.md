@@ -6,4 +6,4 @@
 - Столбовский Ярослав
 
 ## Ссылка на видео презентацию
-https://www.loom.com/share/dfd787af1c3b4d77b22475c727ba353d?sid=bf2f9d9c-cac4-49b7-b2d5-ee736f7b99b9
+https://www.loom.com/share/4ff0343ffd0d44228f86cd83839dd2a3
